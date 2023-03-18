@@ -1,0 +1,40 @@
+{
+     "vaccines": [
+          {
+               "Name": "Pfizer-BioNTech",
+               "Type": "mRNA",
+               "Country of Origin": "Germany",
+               "Efficiency": "95%"
+          },
+          {
+               "Name": "Moderna",
+               "Type": "mRNA",
+               "Country of Origin": "United States",
+               "Efficiency": "94%"
+          },
+          {
+               "Name": "Oxford-AstraZeneca",
+               "Type": "Viral Vector",
+               "Country of Origin": "United Kingdom",
+               "Efficiency": "70%"
+          },
+          {
+               "Name": "Johnson&Johnson",
+               "Type": "Viral Vector",
+               "Country of Origin": "Multinational",
+               "Efficiency": "66%"
+          },
+          {
+               "Name": "Novavax",
+               "Type": "Protein subunit",
+               "Country of Origin": "Multinational",
+               "Efficiency": "89%"
+          },
+          {
+               "Name": "Sinovac",
+               "Type": "Inactivated",
+               "Country of Origin": "China",
+               "Efficiency": "50%"
+          }
+     ]
+}
