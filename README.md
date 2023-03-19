@@ -1,4 +1,4 @@
-# Covid19-Research---Programming-With-Data
+# Covid19-Research
 
 This project is done with Python, in Jupyter Notebook. Some of the libraries used in this project includes: Pandas, Numpy, Matplotlib, BeautifulSoup etc.
 A detailed list can be found in requirements.txt
